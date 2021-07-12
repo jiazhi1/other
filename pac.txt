@@ -3,6 +3,7 @@ var __RULES__ = [
   "||gov",
   "||mil",
   "||edu",
+  "||github.com",
   "||ac",
   "||ad",
   "||ae",
